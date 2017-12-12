@@ -1,0 +1,2 @@
+# CoordinatorLayoutDemo
+关于coordinatorlayout下控制子view滑动的demo
